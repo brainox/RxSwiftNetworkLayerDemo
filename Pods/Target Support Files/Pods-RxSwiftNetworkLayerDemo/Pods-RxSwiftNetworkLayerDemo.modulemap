@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftNetworkLayerDemo {
+  umbrella header "Pods-RxSwiftNetworkLayerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
